@@ -29,7 +29,7 @@ private void Form1_Load(object sender, EventArgs e)
 #### The (small) Docs
 
 ```cs
-bool add(Control i) #Adds specific item to resize (can also use as add(Form i) )
+bool add(Control i)               // Adds specific item to resize (can also use as add(Form i) )
 
-bool intialiseResizer(Control i) #Adds whole form to resize
+bool intialiseResizer(Control i) //Adds whole form to resize
 ```
